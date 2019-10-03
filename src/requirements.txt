@@ -1,0 +1,9 @@
+tensorflow-gpu
+pandas
+numpy
+nbimporter
+nbformat
+ipykernel
+nilearn
+nibabel
+imageio
